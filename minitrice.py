@@ -21,5 +21,10 @@ if os.isatty(0):
 else:
     # Les données qui sont transmises via un pipe
     for entree in sys.stdin:
-        print(round(eval(entree),2))     #Affiche directement le calcul
-        
+        try:
+            print(round(eval(entree),2))     #Affiche directement le calcul
+
+        # Scénario 4 : gestion d'erreur de syntax
+        except SyntaxError:
+            print("Erreur de syntaxe pour le calcul: ", entree)
+            exit(1)
