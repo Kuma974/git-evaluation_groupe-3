@@ -20,4 +20,6 @@ if os.isatty(0):
         print("Fin des calculs :)")
 else:
     # Les données qui sont transmises via un pipe
-    print()
+    for entree in sys.stdin:
+        print(round(eval(entree),2))     #Affiche directement le calcul
+        
