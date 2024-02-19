@@ -28,3 +28,8 @@ else:
         except SyntaxError:
             print("Erreur de syntaxe pour le calcul: ", entree)
             exit(1)
+            
+        #Scénario 5 : Gestion des divisions par zéro
+        except ZeroDivisionError:
+            print("Division par zero")
+            exit(1)
