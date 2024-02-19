@@ -2,7 +2,12 @@
 
 ## Installation
 
-## Exécution
+Dans ce projet, nous allons avoir besoin de :
+
+>[!TIP] 
+>
+> - [Python](https://www.python.org/downloads/)
+> - [WLS2](https://www.ionos.fr/digitalguide/serveur/know-how/wsl2/) pour avoir accès à un terminal similaire à un terminal Unix sur Windows (Recommandation)
 
 ## Génerator
 
