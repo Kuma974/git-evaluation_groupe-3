@@ -32,7 +32,37 @@ Dans ce projet, nous allons avoir besoin de :
 > - [WLS2](https://www.ionos.fr/digitalguide/serveur/know-how/wsl2/) pour avoir accès à un terminal similaire à un terminal Unix sur Windows (Recommandation)
 > - Comment installer python : [cliquez-moi](https://kinsta.com/fr/base-de-connaissances/installer-python/).
 
-# Exécution 
+
+## Exécution 
+Pour exécuter le programme, veuillez saisir `./minitrice` dans votre terminal Bash afin de lancer la minitrice.
+
+Exemple de calcul :
+
+```bash
+$ ./minitrice
+> 1+1
+2
+> 5*3
+15
+> 6-5
+1
+```
+Pour quitter le programme, utilisez la combinaison de touches `Ctrl + D`.
+
+Vous recevrez alors un message de fin élégant :
+```bash
+>
+Fin des calculs :)
+```
+**Utilisation avec la syntaxe de pipeline**
+Vous pouvez également utiliser la syntaxe suivante :
+
+```bash
+$ echo "2+8" | ./minitrice
+10
+```
+Cela vous affichera directement le résultat du calcul sans interaction supplémentaire. 
+
 ## Génerator
 ### Programme
 
