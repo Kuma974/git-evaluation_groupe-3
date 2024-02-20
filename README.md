@@ -13,12 +13,12 @@ Ce projet consiste à créer un programme qui permet de réaliser les 4 opérati
 >[!NOTE] 
 > 
 > Concernant ce projet, il a été réalisé par `4 étudiants`:
-> | Nom | Prenom |
+> | Nom | Prenom | Pseudo |
 > | --- | --- |
-> | xxx | Olivier |
-> | xxx | Jerry |
-> | xxx | Camille |
-> | xxx | Julie |
+> | GRONDIN | Olivier | Kuma974 |
+> | RAZAFINDRAIBE | Jerry | jerryalex15 |
+> | JAVEL  | Camille Marcel| GodOfCode0X |
+> | LENORMAND | Julien | Synepsy |
 
 Comme énoncer dans le sujet du projet, nous avons cinq scénarios différents qui se base sur le programme Minitrice. Nous allons vous guider pas à pas pour faire fonctionner les scripts associés à chacun d'eux.
 
