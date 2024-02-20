@@ -10,6 +10,18 @@ Ce projet consiste à créer un programme qui permet de réaliser les 4 opérati
   - [Publication](#publication)
   - [Liens Utiles](#liens-utiles)
 
+>[!NOTE] 
+> 
+> Concernant ce projet, il a été réalisé par `4 étudiants`:
+> | Nom | Prenom |
+> | --- | --- |
+> | xxx | Olivier |
+> | xxx | Jerry |
+> | xxx | Camille |
+> | xxx | Julie |
+
+Comme énoncer dans le sujet du projet, nous avons cinq scénarios différents qui se base sur le programme Minitrice. Nous allons vous guider pas à pas pour faire fonctionner les scripts associés à chacun d'eux.
+
 ## Installation
 
 Dans ce projet, nous allons avoir besoin de :
