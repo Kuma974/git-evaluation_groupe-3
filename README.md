@@ -14,7 +14,7 @@ Ce projet consiste à créer un programme qui permet de réaliser les 4 opérati
 > 
 > Concernant ce projet, il a été réalisé par `4 étudiants`:
 > | Nom | Prenom | Pseudo |
-> | --- | --- |
+> | --- | --- | --- |
 > | GRONDIN | Olivier | Kuma974 |
 > | RAZAFINDRAIBE | Jerry | jerryalex15 |
 > | JAVEL  | Camille Marcel| GodOfCode0X |
