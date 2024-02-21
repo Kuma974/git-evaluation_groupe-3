@@ -102,6 +102,11 @@ Ce bloc sert à exécuter le code dans la partie try et s'il y a une erreur, on 
 
 ## Publication
 
+Ci-dessous en cliquant sur le lien, nous vous présentons une visualisation captivante de l'évolution de notre projet à travers le temps. 
+
+Cette vidéo Gource offre un aperçu dynamique de l'activité de notre dépôt Git, mettant en lumière les contributions, les branches et les interactions au sein de notre code. Bonne visualisation. 
+- [Gource](https://youtu.be/yhvncF9SdUI) : lien youtube
+
 ## Liens Utiles
 
 >[!TIP]
